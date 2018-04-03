@@ -1,6 +1,6 @@
 # miaov
 
-> miaov
+> miaov vueStudy 仿select两种(父子传参，vuex)
 
 ## Build Setup
 
